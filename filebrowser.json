@@ -1,0 +1,7 @@
+{
+  "port": 8080,
+  "address": "0.0.0.0",
+  "root": "/srv",
+  "username": "admin",
+  "password": "$2a$10$4K9P2M5N8Q1R6S3T7V0X.uYvAxByCzD4E5F6G7H8I9J0K1L2M3N4O"
+}
