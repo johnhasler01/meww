@@ -1,4 +1,2 @@
-FROM filebrowser/filebrowser:latest
-RUN echo "Force rebuild"
-COPY filebrowser.json /etc/filebrowser.json
+FROM filebrowser/filebrowser:v2.27.0
 EXPOSE 8080
